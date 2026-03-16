@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Last Resort (2020)",
+  "base_artist": "Papa Roach",
+  "createdAt": "2026-03-16T07:28:11.002735Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Last Resort",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/01_The_Last_Resort_Midland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Last Resort",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/02_The_Last_Resort_Midland.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Last Resort",
+      "artist": "Ancient Bards",
+      "has_synced": false,
+      "path": "select/03_The_Last_Resort_Ancient_Bards.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Last Resort - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/04_The_Last_Resort_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Last Resort",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/05_The_Last_Resort_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Resort",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/06_Last_Resort_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Resort",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/07_Last_Resort_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Resort (Bonus Track)",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/08_Last_Resort_(Bonus_Track)_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Your Last Resort",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/09_Your_Last_Resort_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Last Resort",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/10_The_Last_Resort_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Last Resort - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/11_The_Last_Resort_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Resort - (Live) Explicit Version",
+      "artist": "Papa Roach",
+      "has_synced": false,
+      "path": "select/12_Last_Resort_-_(Live)_Explicit_Version_Papa_Roach.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Resort (Reloaded)",
+      "artist": "Papa Roach feat. Jeris Johnson",
+      "has_synced": true,
+      "path": "select/13_Last_Resort_(Reloaded)_Papa_Roach_feat._Jeris_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last Resort (Reloaded)",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/14_Last_Resort_(Reloaded)_Papa_Roach.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Resort",
+      "artist": "Papa Roach",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Resort_Papa_Roach.txt"
+    }
+  ]
+}
